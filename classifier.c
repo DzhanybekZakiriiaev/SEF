@@ -6,5 +6,5 @@ void predict() { //This is our AI powered predict printer. very high tech
 
 void train() {
 	printf("train\n");
-	printf("The first feature is added");
+	printf("The second feature is added\n");
 }
